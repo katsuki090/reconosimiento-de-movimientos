@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(214, 166, 241);
+    color: rgb(129, 61, 129);
+}
+span {
+    box-shadow: 0px 0px 6px rgb(137, 116, 196);
+}
+center {
+    background-color: aliceblue;
+}
+div {
+    bottom: 0px ;
+    position: fixed;
+    
+}
